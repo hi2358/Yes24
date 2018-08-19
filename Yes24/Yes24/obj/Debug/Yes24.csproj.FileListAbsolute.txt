@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\Yes24\Yes24\bin\Debug\Yes24.exe.config
+C:\Users\J\source\repos\Yes24\Yes24\bin\Debug\Yes24.exe
+C:\Users\J\source\repos\Yes24\Yes24\bin\Debug\Yes24.pdb
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.csprojAssemblyReference.cache
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.Form1.resources
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.Properties.Resources.resources
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.csproj.GenerateResource.cache
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.exe
+C:\Users\J\source\repos\Yes24\Yes24\obj\Debug\Yes24.pdb
